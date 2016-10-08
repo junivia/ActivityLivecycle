@@ -3,6 +3,7 @@
  - Screenshoot :
       - Tampilan 1 : ![Tampilan 1](https://docs.google.com/uc?id=0ByBJzbmrN9ZvZGtDUzhoeGxhaUE)
       - Tampilan 2 : ![Tampilan 2](https://docs.google.com/uc?id=0ByBJzbmrN9ZvREZ1dnpOdUdjQ3c)
+      - Tampilan 3 : ![Tampilan 3](https://docs.google.com/uc?id=0ByBJzbmrN9ZvUGgtaGtCTGZtd2s)
       
 ___________________________________________________________________________________________________________________________________________
 
